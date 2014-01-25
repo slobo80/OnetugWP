@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+  <newsUrl>http://dl.dropbox.com/u/10710510/Onetug/News.xml</newsUrl>
+  <sponsorsUrl>http://dl.dropbox.com/u/10710510/Onetug/Sponsors.xml</sponsorsUrl>
+  <eventsUrl>http://onetug.org/events.rss.ashx</eventsUrl>
+
+  <!-- How to generate a Bing Maps key: http://msdn.microsoft.com/library/ff428642.aspx -->
+  <bingMapsKey></bingMapsKey>
+ 
+</settings>

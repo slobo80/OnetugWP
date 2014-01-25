@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StaticInfoModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UpdateHistory>
+    <History>
+      <Version>1.0</Version>
+      <Changes>
+This is the initial public version.
+      </Changes>
+      <PublishedDate>2012-04-18T00:00:00.792-05:00</PublishedDate>
+    </History>
+  </UpdateHistory>
+</StaticInfoModel>
