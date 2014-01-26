@@ -1,0 +1,8 @@
+﻿These are the steps to creating radial gradient for the backgroudn:
+1. Set the color to be used with the gradient.
+2. In the layer windows select radial gradient
+3. Set style to Radial
+4. Set angle to -35
+5. Set Scale to 85
+6. Click OK.
+7. Set the layer opacity to 50%
